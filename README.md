@@ -1,2 +1,1 @@
-For details see Sørensen et al. 2025 "Quantifying uncertainty in stratigraphic alignment of geological signals using probabilistic dynamic time warping"
-https://doi.org/10.1016/j.quascirev.2025.109632
+For details see Sørensen, A.L., Hansen, T.M., Falk, F.A., Olsen, J., Knudsen, M.F., 2025. Quantifying uncertainty in stratigraphic alignment of geological signals using probabilistic dynamic time warping. Quat. Sci. Rev. 369, 109632. https://doi.org/10.1016/j.quascirev.2025.109632
